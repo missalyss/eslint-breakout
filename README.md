@@ -13,7 +13,7 @@ Here is a list of some of the more popular style guides
 
 You can also define your own rules and create your own style guide!
 
-###Setup
+### Setup
 There are a few steps we need to do to get our linter up and running.
 
 - Find a style guide that you want to use!
