@@ -9,6 +9,6 @@ Here is a list of some of the more popular style guides
 - [standard](https://github.com/feross/eslint-config-standard)
 - [semistandard](https://github.com/Flet/eslint-config-semistandard)
 - [google](https://github.com/google/eslint-config-google)
-- many more!
+- [many more!](http://lmgtfy.com/?q=eslint+style+guides)
 
 You can also define your own rules and create your own style guide!
